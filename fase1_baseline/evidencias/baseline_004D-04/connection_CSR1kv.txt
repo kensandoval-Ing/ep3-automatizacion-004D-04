@@ -1,0 +1,2 @@
+[2026-06-23 21:40:00] +++ connection to spawn: ssh -l cisco -o KexAlgorithms=diffie-hellman-group14-sha1 192.168.56.101
+[2026-06-23 21:40:02] +++ connection to CSR1kv successful +++

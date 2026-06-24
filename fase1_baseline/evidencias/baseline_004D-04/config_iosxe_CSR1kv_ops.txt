@@ -1,0 +1,2 @@
+hostname: CSR1kv
+version: 16.9.4

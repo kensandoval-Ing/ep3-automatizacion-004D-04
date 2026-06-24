@@ -1,0 +1,4 @@
+--- baseline_004D-04/config_iosxe_CSR1kv_ops.txt
++++ snapshot_final_004D-04/config_iosxe_CSR1kv_ops.txt
+- hostname: CSR1kv
++ hostname: RTR-PORTOCL

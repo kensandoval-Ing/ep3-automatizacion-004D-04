@@ -1,0 +1,3 @@
+GigabitEthernet1:
+  description: Enlace-WAN-La-Serena
+  status: up
