@@ -1,0 +1,17 @@
+alumno:
+  codigo: "004D-04"
+  nombre: "Sandoval Carrasquel Kenyer Leonardo"
+cliente:
+  empresa: "PortoCall Chile SA"
+  hostname: "RTR-PORTOCL"
+router:
+  ip: "192.168.56.101"
+  usuario: "cisco"
+  password: "cisco123!"
+  loopback_id: 4
+  loopback_ip: "10.4.4.1"
+  loopback_mask: "255.255.255.0"
+  loopback_prefix: "24"
+  descripcion_wan: "Enlace-WAN-La-Serena"
+  banner: "ACCESO RESTRINGIDO - PORTOCL"
+  ntp_server: "208.67.222.222"
