@@ -1,0 +1,12 @@
+=== REPORTE RESTCONF ===
+Script: validacion_restconf.py
+Fecha: 2026-06-24 01:22:53.651876
+Host: KenyerSandoval
+========================
+
+[OK] Archivo get_hostname.json generado y coincide con variables.
+[FAIL] Error consultando get_loopback.json - HTTP 404
+[OK] Archivo get_interfaces.json generado y coincide con variables.
+[FAIL] Error consultando get_ntp.json - HTTP 204
+
+RESULTADO GLOBAL: NO CONFORME
