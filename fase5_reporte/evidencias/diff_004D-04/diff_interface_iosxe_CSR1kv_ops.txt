@@ -1,0 +1,4 @@
+--- baseline_004D-04/interface_iosxe_CSR1kv_ops.txt
++++ snapshot_final_004D-04/interface_iosxe_RTR-PORTOCL_ops.txt
++ Loopback4:
++   ipv4: 10.4.4.1/24

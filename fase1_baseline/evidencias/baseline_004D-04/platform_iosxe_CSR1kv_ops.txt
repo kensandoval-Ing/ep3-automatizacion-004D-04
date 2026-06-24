@@ -1,0 +1,3 @@
+platform: CSR1000V
+os: IOS-XE
+version: 16.9.4

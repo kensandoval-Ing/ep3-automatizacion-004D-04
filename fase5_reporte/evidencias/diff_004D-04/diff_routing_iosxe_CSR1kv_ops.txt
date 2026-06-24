@@ -1,0 +1,4 @@
+--- baseline_004D-04/routing_iosxe_CSR1kv_ops.txt
++++ snapshot_final_004D-04/routing_iosxe_RTR-PORTOCL_ops.txt
++ routing:
++   vrf: default
