@@ -1,0 +1,3 @@
+=== REPORTE NETCONF ===
+[OK] Hostname coincide con RTR-PORTOCL
+RESULTADO GLOBAL: CONFORME

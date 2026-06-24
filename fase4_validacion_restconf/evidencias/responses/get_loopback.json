@@ -1,0 +1,1 @@
+{ "ietf-interfaces:interface": { "name": "Loopback4", "ietf-ip:ipv4": { "address": [ { "ip": "10.4.4.1", "netmask": "255.255.255.0" } ] } } }

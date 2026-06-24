@@ -1,0 +1,14 @@
+=========================================
+CERTIFICADO DE COMPLIANCE - AUTOMATIZACION
+=========================================
+Alumno: 004D-04 - Sandoval Carrasquel Kenyer Leonardo
+Cliente: PortoCall Chile SA
+Equipo: RTR-PORTOCL
+
+--- RESULTADOS DE AUDITORIA ---
+Validacion NETCONF: CONFORME
+Validacion RESTCONF: CONFORME
+Diferencias detectadas (pyATS Diff): SI
+
+ESTADO FINAL: CONFORME
+=========================================
